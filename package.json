@@ -1,5 +1,6 @@
 {
   "name": "tam-for-me",
+  "type":"module",
   "version": "1.0.0",
   "description": "My own project for learning JS Automation",
   "main": "index.js",
